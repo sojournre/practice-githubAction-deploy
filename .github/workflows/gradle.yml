@@ -46,7 +46,7 @@ jobs:
       uses: aws-actions/configure-aws-credentials@v1
       with:
         aws-access-key-id: AKIAYOYNLB6VCYXMT7OI
-        aws-secret-access-key: K4eZgF2SuaT6SCdp6
+        aws-secret-access-key: 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
         aws-region: ap-northeast-2
 
       # 압축한 프로젝트를 S3로 전송합니다.
